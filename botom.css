@@ -1,0 +1,129 @@
+.boton {
+	position: relative;
+	top: 60px;
+display: block;
+width: 90px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+background-color: rgb(127, 206, 255);
+border-radius: 100px;
+padding: 35px 30px;
+marging: 150px 130px;
+color: white;
+text-decoration: none;
+text-align: center;
+margin-left: 300px;
+}
+boton:hover {
+background-color: transparent;
+border: 2px solid blue;
+color: blue;
+}
+.botin {
+	position: relative;
+	top: 90px;
+display: block;
+width: 90px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+background-color: rgb(127, 206, 255);
+border-radius: 100px;
+padding: 35px 30px;
+marging: 150px 130px;
+color: white;
+text-decoration: none;
+text-align: center;
+margin-left: 300px;
+}
+botin:hover {
+background-color: transparent;
+border: 2px solid blue;
+color: blue;
+}
+.boten {
+	position: relative;
+	top: 120px;
+display: block;
+width: 90px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+background-color: rgb(127, 206, 255);
+border-radius: 100px;
+padding: 35px 30px;
+marging: 150px 130px;
+color: white;
+text-decoration: none;
+text-align: center;
+margin-left: 300px;
+}
+boten:hover {
+background-color: transparent;
+border: 2px solid blue;
+color: blue;
+}
+.botan {
+	position: relative;
+	left: 750px;
+	bottom: 257px;
+display: block;
+width: 90px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+background-color: rgb(127, 206, 255);
+border-radius: 100px;
+padding: 35px 30px;
+marging: 150px 130px;
+color: white;
+text-decoration: none;
+text-align: center;
+margin-left: 300px;
+}
+botan:hover {
+background-color: transparent;
+border: 2px solid blue;
+color: blue;
+}
+.botein {
+	position: relative;
+	left: 750px;
+	bottom: 227px;
+display: block;
+width: 90px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+background-color: rgb(127, 206, 255);
+border-radius: 100px;
+padding: 35px 30px;
+marging: 150px 130px;
+color: white;
+text-decoration: none;
+text-align: center;
+margin-left: 300px;
+}
+botein:hover {
+background-color: transparent;
+border: 2px solid blue;
+color: blue;
+}
+.botonn {
+	position: relative;
+	left: 750px;
+	bottom: 197px;
+display: block;
+width: 90px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+background-color: rgb(127, 206, 255);
+border-radius: 100px;
+padding: 35px 30px;
+marging: 150px 130px;
+color: white;
+text-decoration: none;
+text-align: center;
+margin-left: 300px;
+}
+botonn:hover {
+background-color: transparent;
+border: 2px solid blue;
+color: blue;
+}
